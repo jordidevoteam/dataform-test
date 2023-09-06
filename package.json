@@ -1,6 +1,6 @@
 {
   "name": "repository",
   "dependencies": {
-    "@dataform/core": "1.0.0"
+    "@dataform/core": "2.6.7"
   }
 }
