@@ -1,1 +1,4 @@
-SELECT * FROM ${ref("example_operation")}
+SELECT
+  *
+FROM
+  ${ref("example_operation")}
