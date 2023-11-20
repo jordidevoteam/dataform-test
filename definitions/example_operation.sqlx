@@ -6,4 +6,3 @@ CREATE OR REPLACE VIEW
   ${self()} AS (
   SELECT
     1 AS test)
-  #test
